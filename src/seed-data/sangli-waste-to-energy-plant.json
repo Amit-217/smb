@@ -1,0 +1,115 @@
+{
+  "slug": "sangli-waste-to-energy-plant",
+  "priority": "watch",
+  "location": { "lat": 16.86, "lng": 74.57 },
+  "en": {
+    "title": "Sangli Waste-to-Energy Incinerator (Shut)",
+    "district": "Sangli",
+    "category": "Pollution",
+    "summary": "A 10 MW waste-to-energy incineration plant run by Bhumi Green Energy in Sangli district was ordered closed on 23 September 2026 by the Sub-Divisional Officer and Magistrate of Miraj, after villagers protested over smoke, wastewater and ash. A CPCB report to the National Green Tribunal had earlier said the plant was not monitored by the MPCB for five years.",
+    "background": "Waste-to-energy (WtE) plants burn municipal solid waste to generate electricity. Their record in India has been poor, and the National Green Tribunal (NGT) is examining their compliance in a case it took up on its own (O.A. 536/2024, based on a news item titled 'Waste to Energy: Smokescreen or Solution?'). In an April 2025 report to the NGT, the Central Pollution Control Board (CPCB) counted 21 operational municipal-waste incineration plants in 10 states and union territories, including two in Maharashtra, and directed the Maharashtra Pollution Control Board (MPCB), among others, to act against non-complying plants.\n\nThe Sangli plant is a 10 MW incinerator run by Bhumi Green Energy Pvt Ltd in the Miraj sub-division. Its exact village is not given in the reports reviewed. A separate 2022 deal report records Bhumi Green Energy buying a 10 MW biomass-fuelled power plant in Sangli from Ambuja Intermediates; whether that is the same facility has not been confirmed.\n\nIn November 2025, according to Pune Pulse, a CPCB report to the NGT flagged the plant: it said the MPCB had not monitored it even once in five years, that the minimum combustion-chamber temperature was 230°C, and that loss on ignition of about 6% indicated improper burning. The Sangli operator was issued directions.\n\nIn 2026 a joint fact-finding exercise by Paryavaran Rakshan Samiti Sangli, the National Alliance for Climate and Ecological Justice and the Centre for Financial Accountability alleged serious violations covering combustion, wastewater, air-pollution control and ash. After protests by villagers over the effects on health, farms and water sources, the Sub-Divisional Officer and Sub-Divisional Magistrate of Miraj issued closure orders on 23 September 2026. Down To Earth reported the shutdown on 29 September 2026, citing campaigners.\n\nThe case comes as national rules change. New Solid Waste Management Rules, 2026 took effect on 1 April 2026, and in May 2026 the CPCB circulated revised draft guidelines for incineration-based WtE plants to state boards for comment, as directed by the NGT.",
+    "whatIsProposed": "An existing 10 MW municipal-waste incineration (waste-to-energy) power plant operated by Bhumi Green Energy Pvt Ltd in the Miraj sub-division of Sangli district. According to the campaigners' figures reported by Down To Earth, at full capacity it would generate about 7.2 million units a month, but it averaged about 2.38 million units (about 33%). It was ordered closed on 23 September 2026 by the Sub-Divisional Officer / Sub-Divisional Magistrate, Miraj.",
+    "cause": "Incineration of mixed municipal waste, allegedly with pollution-control systems not working, combined with weak regulatory monitoring (the CPCB told the NGT that the MPCB had not monitored the plant in five years) and a national policy that has subsidised WtE plants.",
+    "effects": [
+      "Black smoke from furnace and boiler sections, with electrostatic precipitators and wet scrubbers allegedly not working (fact-finding team)",
+      "Secondary combustion chamber allegedly running at 230°C, far below the required minimum, raising concern about dioxins and furans",
+      "Untreated leachate allegedly stored in unlined pits and overflowing into streams feeding the Warana river (fact-finding team)",
+      "Fly ash allegedly left uncovered, and bottom ash allegedly given to private parties to fill low-lying land at 25 or more locations",
+      "Villagers' complaints of harm to health, crops and local water sources (allegations; no official health or crop study found)",
+      "Online emissions data allegedly not sent to the CPCB or MPCB, so the public could not see the plant's emissions"
+    ],
+    "govPosition": "The Sub-Divisional Officer and Sub-Divisional Magistrate, Miraj, issued closure orders on 23 September 2026 following the protests (the text of the order was not found). At national level, the CPCB has told the NGT that it directed the MPCB to take action against non-complying WtE plants (April 2025), and in November 2025 it flagged the Sangli plant's non-monitoring and low combustion temperature, with directions issued to the operator. No public statement by the MPCB or by Bhumi Green Energy on the closure was found.",
+    "status": "Closure ordered by Miraj SDO/SDM (23 Sep 2026) — watch for reopening or appeal",
+    "keyFacts": [
+      { "label": "Operator", "value": "Bhumi Green Energy Pvt Ltd" },
+      { "label": "Capacity", "value": "10 MW (incineration-based waste-to-energy)" },
+      { "label": "Location", "value": "Miraj sub-division, Sangli district (village not confirmed)" },
+      { "label": "Closure order", "value": "23 Sep 2026, Sub-Divisional Officer / Sub-Divisional Magistrate, Miraj" },
+      { "label": "Combustion temperature (reported)", "value": "230°C minimum" },
+      { "label": "MPCB monitoring", "value": "Not monitored once in 5 years (CPCB report to NGT, as reported Nov 2025)" },
+      { "label": "Output (campaigners)", "value": "About 2.38 million units/month, about 33% of capacity" },
+      { "label": "Fact-finding groups", "value": "Paryavaran Rakshan Samiti Sangli, NACEJ, Centre for Financial Accountability" }
+    ],
+    "disputed": [
+      "Required combustion temperature: the fact-finding groups (Down To Earth, Construction World) compare 230°C with a minimum of 950°C under the SWM Rules, 2016; Pune Pulse, reporting the CPCB's findings, gives the mandated figure as 850°C",
+      "Plant identity: a 2022 deal report describes Bhumi Green Energy buying a 10 MW biomass-fuelled plant in Sangli; reports in 2025–26 describe a 10 MW municipal-waste incinerator — it is not confirmed whether these are the same plant",
+      "Harm to health and crops is alleged by villagers and campaigners; no official assessment of health or agricultural impact was found"
+    ],
+    "openQuestions": [
+      "Exact village and site of the plant",
+      "Text of the 23 September 2026 closure order: legal basis (e.g. public nuisance powers) and whether it is temporary or permanent",
+      "Has Bhumi Green Energy appealed or responded, and has the plant reopened?",
+      "What did the MPCB find in its own inspections, and has it issued closure directions under pollution laws?",
+      "Which local bodies supplied the waste, and where is that waste going now?",
+      "What public subsidies or power-purchase terms did the plant receive?"
+    ],
+    "timeline": [
+      { "date": "2022-08-10", "text": "Deal report: Bhumi Green Energy buys a 10 MW biomass-fuelled power plant in Sangli from Ambuja Intermediates (link to the WtE plant unconfirmed)", "source": "https://www.barandbench.com/law-firms/dealstreet/rajani-associates-acts-on-sale-of-ambuja-intermediates-to-bhumi-green-energy" },
+      { "date": "2025-04-15", "text": "CPCB report to NGT counts 21 WtE incineration plants (two in Maharashtra) and directs the MPCB to act against non-complying plants", "source": "https://indiaenvironmentportal.org.in/in-court/report-filed-by-the-central-pollution-control-board-on-waste-to-energy-plants-15042025" },
+      { "date": "2025-11-18", "text": "Pune Pulse reports a CPCB report to NGT saying the Sangli plant was not monitored by the MPCB in five years and ran at 230°C", "source": "https://www.mypunepulse.com/?p=178023" },
+      { "date": "2026-05-20", "text": "CPCB tells the NGT it has circulated revised draft guidelines for incineration-based WtE plants under the SWM Rules, 2026", "source": "https://www.greentribunal.gov.in/sites/default/files/news_updates/Action Taken Report by CPCB in OA No 536 of 2024 NEWS ITEM TITLED WASTE TO ENERGY SMOKESCREEN OR SOLUTION APPEARING IN THE INDIAN DEVELOPMENT REVIEW DATED 27-03-2024.pdf" },
+      { "date": "2026-09-23", "text": "Sub-Divisional Officer / Sub-Divisional Magistrate, Miraj, issues closure orders for the plant after villagers' protests", "source": "https://www.downtoearth.org.in/waste/maharashtra-waste-to-energy-plant-shut-down-after-pollution-complaints" },
+      { "date": "2026-09-29", "text": "Down To Earth publishes the fact-finding allegations and campaigners' call for a nationwide ban on incineration", "source": "https://www.downtoearth.org.in/waste/maharashtra-waste-to-energy-plant-shut-down-after-pollution-complaints" },
+      { "date": "2026-10-05", "text": "Construction World reports the shutdown and the alleged violations", "source": "https://www.constructionworld.in/urban-infrastructure/wastewater-and-sewage-treatment/maharashtra-waste-to-energy-plant-shut-after-pollution-complaints/98100" }
+    ]
+  },
+  "mr": {
+    "title": "सांगली कचऱ्यापासून ऊर्जा भस्मीकरण प्रकल्प (बंद)",
+    "district": "सांगली",
+    "category": "प्रदूषण",
+    "summary": "सांगली जिल्ह्यातील भूमी ग्रीन एनर्जीचा 10 मेगावॅट क्षमतेचा कचऱ्यापासून ऊर्जा निर्माण करणारा भस्मीकरण प्रकल्प धूर, सांडपाणी व राखेविरोधात ग्रामस्थांनी आंदोलन केल्यानंतर मिरजच्या उपविभागीय अधिकारी व उपविभागीय दंडाधिकाऱ्यांनी 23 सप्टेंबर 2026 रोजी बंद करण्याचे आदेश दिले. याआधी केंद्रीय प्रदूषण नियंत्रण मंडळाने राष्ट्रीय हरित लवादाला सादर केलेल्या अहवालात MPCB ने पाच वर्षांत या प्रकल्पाची एकदाही तपासणी केली नसल्याचे म्हटले होते.",
+    "background": "कचऱ्यापासून ऊर्जा (WtE) प्रकल्पांत नागरी घनकचरा जाळून वीज निर्माण केली जाते. भारतात अशा प्रकल्पांची कामगिरी असमाधानकारक राहिली आहे आणि राष्ट्रीय हरित लवाद (NGT) 'Waste to Energy: Smokescreen or Solution?' या बातमीच्या आधारे स्वतःहून दाखल केलेल्या प्रकरणात (O.A. 536/2024) त्यांच्या नियमपालनाची तपासणी करत आहे. एप्रिल 2025 मध्ये लवादाला सादर केलेल्या अहवालात केंद्रीय प्रदूषण नियंत्रण मंडळाने (CPCB) 10 राज्ये व केंद्रशासित प्रदेशांत 21 कार्यरत नागरी कचरा भस्मीकरण प्रकल्प असल्याचे (त्यापैकी दोन महाराष्ट्रात) नमूद केले आणि नियम न पाळणाऱ्या प्रकल्पांवर कारवाई करण्याचे निर्देश महाराष्ट्र प्रदूषण नियंत्रण मंडळासह (MPCB) इतर मंडळांना दिले.\n\nसांगलीतील हा प्रकल्प भूमी ग्रीन एनर्जी प्रा. लि. चालवत असलेला मिरज उपविभागातील 10 मेगावॅटचा भस्मीकरण प्रकल्प आहे. पाहिलेल्या वृत्तांत त्याचे नेमके गाव दिलेले नाही. 2022 मधील एका व्यवहारविषयक वृत्तानुसार भूमी ग्रीन एनर्जीने अंबुजा इंटरमीडिएट्सकडून सांगलीतील 10 मेगावॅटचा बायोमास-आधारित वीज प्रकल्प विकत घेतला; तोच हा प्रकल्प आहे का, हे निश्चित झालेले नाही.\n\nपुणे पल्सच्या वृत्तानुसार नोव्हेंबर 2025 मध्ये CPCB ने लवादाला सादर केलेल्या अहवालात या प्रकल्पाबाबत गंभीर निरीक्षणे नोंदवली: MPCB ने पाच वर्षांत एकदाही त्याची तपासणी केली नाही, ज्वलन कक्षाचे किमान तापमान केवळ 230°C होते आणि सुमारे 6 टक्के 'लॉस ऑन इग्निशन' कचरा नीट न जळल्याचे दर्शवतो. सांगलीच्या प्रकल्प चालकाला निर्देश देण्यात आले.\n\n2026 मध्ये पर्यावरण रक्षण समिती सांगली, नॅशनल अलायन्स फॉर क्लायमेट अँड इकॉलॉजिकल जस्टिस आणि सेंटर फॉर फायनान्शियल अकाउंटेबिलिटी यांनी संयुक्त सत्यशोधन करून ज्वलन, सांडपाणी, वायुप्रदूषण नियंत्रण आणि राख व्यवस्थापनात गंभीर उल्लंघनांचा आरोप केला. आरोग्य, शेती व पाणीस्रोतांवरील परिणामांविरोधात ग्रामस्थांनी आंदोलन केल्यानंतर मिरजचे उपविभागीय अधिकारी व उपविभागीय दंडाधिकारी यांनी 23 सप्टेंबर 2026 रोजी प्रकल्प बंद करण्याचे आदेश दिले. डाउन टू अर्थने 29 सप्टेंबर 2026 रोजी, आंदोलकांच्या हवाल्याने, प्रकल्प बंद झाल्याचे वृत्त दिले.\n\nराष्ट्रीय नियम बदलत असतानाच हे प्रकरण घडले आहे. नवे घनकचरा व्यवस्थापन नियम, 2026 हे 1 एप्रिल 2026 पासून लागू झाले आणि लवादाच्या निर्देशानुसार CPCB ने मे 2026 मध्ये भस्मीकरण-आधारित WtE प्रकल्पांसाठीची सुधारित मसुदा मार्गदर्शक तत्त्वे राज्य मंडळांकडे अभिप्रायासाठी पाठवली.",
+    "whatIsProposed": "सांगली जिल्ह्यातील मिरज उपविभागात भूमी ग्रीन एनर्जी प्रा. लि. चालवत असलेला 10 मेगावॅटचा विद्यमान नागरी कचरा भस्मीकरण (कचऱ्यापासून ऊर्जा) वीज प्रकल्प. डाउन टू अर्थने दिलेल्या आंदोलकांच्या आकडेवारीनुसार पूर्ण क्षमतेने तो दरमहा सुमारे 72 लाख युनिट वीज निर्माण करू शकतो, पण सरासरी उत्पादन सुमारे 23.8 लाख युनिट (सुमारे 33 टक्के) होते. मिरजचे उपविभागीय अधिकारी / उपविभागीय दंडाधिकारी यांनी 23 सप्टेंबर 2026 रोजी तो बंद करण्याचे आदेश दिले.",
+    "cause": "प्रदूषण नियंत्रण यंत्रणा बंद असल्याचा आरोप असताना मिश्र नागरी कचऱ्याचे भस्मीकरण, नियामक देखरेखीतील ढिलाई (MPCB ने पाच वर्षांत प्रकल्पाची तपासणी केली नसल्याचे CPCB ने लवादाला सांगितले) आणि WtE प्रकल्पांना अनुदान देणारे राष्ट्रीय धोरण.",
+    "effects": [
+      "भट्टी व बॉयलर विभागातून काळा धूर; इलेक्ट्रोस्टॅटिक प्रेसिपिटेटर व वेट स्क्रबर बंद असल्याचा आरोप (सत्यशोधन पथक)",
+      "दुय्यम ज्वलन कक्ष आवश्यक किमान तापमानापेक्षा खूपच कमी, 230°C वर चालत असल्याचा आरोप; त्यामुळे डायऑक्सिन व फ्युरानची चिंता",
+      "प्रक्रिया न केलेले लिचेट अस्तर नसलेल्या खड्ड्यांत साठवले जाऊन वारणा नदीला मिळणाऱ्या ओढ्यांत वाहत असल्याचा आरोप (सत्यशोधन पथक)",
+      "फ्लाय ॲश उघड्यावर टाकल्याचा, तसेच बॉटम ॲश खासगी व्यक्तींना देऊन किमान 25 ठिकाणी सखल जमीन भरण्यासाठी वापरल्याचा आरोप",
+      "आरोग्य, पिके व स्थानिक पाणीस्रोतांना हानी झाल्याच्या ग्रामस्थांच्या तक्रारी (आरोप; आरोग्य किंवा पीक नुकसानीचा अधिकृत अभ्यास आढळला नाही)",
+      "ऑनलाइन उत्सर्जन माहिती CPCB किंवा MPCB कडे पाठवली जात नसल्याचा आरोप, त्यामुळे प्रकल्पाचे उत्सर्जन जनतेला दिसत नव्हते"
+    ],
+    "govPosition": "आंदोलनांनंतर मिरजचे उपविभागीय अधिकारी व उपविभागीय दंडाधिकारी यांनी 23 सप्टेंबर 2026 रोजी प्रकल्प बंद करण्याचे आदेश दिले (आदेशाचा मजकूर उपलब्ध झाला नाही). राष्ट्रीय पातळीवर, नियम न पाळणाऱ्या WtE प्रकल्पांवर कारवाई करण्याचे निर्देश MPCB ला दिल्याचे CPCB ने लवादाला सांगितले (एप्रिल 2025) आणि नोव्हेंबर 2025 मध्ये सांगली प्रकल्पाची तपासणी न होणे व कमी ज्वलन तापमान याकडे लक्ष वेधले; प्रकल्प चालकाला निर्देश देण्यात आले. प्रकल्प बंद होण्याबाबत MPCB किंवा भूमी ग्रीन एनर्जीचे कोणतेही जाहीर निवेदन आढळले नाही.",
+    "status": "मिरज उपविभागीय अधिकारी/दंडाधिकाऱ्यांकडून बंदचे आदेश (23 सप्टें. 2026) — प्रकल्प पुन्हा सुरू होतो का किंवा अपील होते का, यावर लक्ष",
+    "keyFacts": [
+      { "label": "प्रकल्प चालक", "value": "भूमी ग्रीन एनर्जी प्रा. लि." },
+      { "label": "क्षमता", "value": "10 मेगावॅट (भस्मीकरण-आधारित कचऱ्यापासून ऊर्जा)" },
+      { "label": "स्थान", "value": "मिरज उपविभाग, सांगली जिल्हा (गाव निश्चित नाही)" },
+      { "label": "बंदचे आदेश", "value": "23 सप्टेंबर 2026, उपविभागीय अधिकारी / उपविभागीय दंडाधिकारी, मिरज" },
+      { "label": "ज्वलन तापमान (वृत्तानुसार)", "value": "किमान 230°C" },
+      { "label": "MPCB तपासणी", "value": "पाच वर्षांत एकदाही नाही (CPCB चा लवादाला अहवाल, नोव्हें. 2025 मधील वृत्तानुसार)" },
+      { "label": "उत्पादन (आंदोलकांनुसार)", "value": "दरमहा सुमारे 23.8 लाख युनिट, क्षमतेच्या सुमारे 33 टक्के" },
+      { "label": "सत्यशोधन करणाऱ्या संघटना", "value": "पर्यावरण रक्षण समिती सांगली, NACEJ, सेंटर फॉर फायनान्शियल अकाउंटेबिलिटी" }
+    ],
+    "disputed": [
+      "आवश्यक ज्वलन तापमान: सत्यशोधन संघटना (डाउन टू अर्थ, कन्स्ट्रक्शन वर्ल्ड) 230°C ची तुलना घनकचरा व्यवस्थापन नियम, 2016 मधील किमान 950°C शी करतात; CPCB च्या निरीक्षणांचे वृत्त देताना पुणे पल्स बंधनकारक तापमान 850°C असल्याचे सांगते",
+      "प्रकल्पाची ओळख: 2022 च्या व्यवहारविषयक वृत्तात भूमी ग्रीन एनर्जीने सांगलीतील 10 मेगावॅटचा बायोमास-आधारित प्रकल्प विकत घेतल्याचे म्हटले आहे; 2025–26 च्या वृत्तांत 10 मेगावॅटचा नागरी कचरा भस्मीकरण प्रकल्प असा उल्लेख आहे — दोन्ही एकच आहेत का, हे निश्चित नाही",
+      "आरोग्य व पिकांना हानी झाल्याचा आरोप ग्रामस्थ व आंदोलकांचा आहे; आरोग्य किंवा शेतीवरील परिणामांचे अधिकृत मूल्यांकन आढळले नाही"
+    ],
+    "openQuestions": [
+      "प्रकल्पाचे नेमके गाव व जागा",
+      "23 सप्टेंबर 2026 च्या बंद आदेशाचा मजकूर: कायदेशीर आधार (उदा. सार्वजनिक उपद्रवाविषयीचे अधिकार) आणि तो तात्पुरता की कायमस्वरूपी",
+      "भूमी ग्रीन एनर्जीने अपील केले किंवा प्रतिसाद दिला आहे का, आणि प्रकल्प पुन्हा सुरू झाला आहे का?",
+      "MPCB ला स्वतःच्या तपासणीत काय आढळले आणि प्रदूषण कायद्यांखाली बंदचे निर्देश दिले आहेत का?",
+      "कोणत्या स्थानिक स्वराज्य संस्थांकडून कचरा येत होता आणि तो कचरा आता कुठे जातो?",
+      "प्रकल्पाला कोणती सरकारी अनुदाने किंवा वीज खरेदीच्या अटी मिळाल्या?"
+    ],
+    "timeline": [
+      { "date": "2022-08-10", "text": "व्यवहारविषयक वृत्त: भूमी ग्रीन एनर्जीने अंबुजा इंटरमीडिएट्सकडून सांगलीतील 10 मेगावॅटचा बायोमास-आधारित वीज प्रकल्प विकत घेतला (WtE प्रकल्पाशी संबंध निश्चित नाही)", "source": "https://www.barandbench.com/law-firms/dealstreet/rajani-associates-acts-on-sale-of-ambuja-intermediates-to-bhumi-green-energy" },
+      { "date": "2025-04-15", "text": "CPCB च्या लवादाला सादर अहवालात 21 WtE भस्मीकरण प्रकल्पांची (दोन महाराष्ट्रात) नोंद; नियम न पाळणाऱ्या प्रकल्पांवर कारवाईचे MPCB ला निर्देश", "source": "https://indiaenvironmentportal.org.in/in-court/report-filed-by-the-central-pollution-control-board-on-waste-to-energy-plants-15042025" },
+      { "date": "2025-11-18", "text": "सांगली प्रकल्पाची MPCB ने पाच वर्षांत तपासणी केली नाही आणि तो 230°C वर चालत होता, असे CPCB च्या लवादाला सादर अहवालात म्हटल्याचे पुणे पल्सचे वृत्त", "source": "https://www.mypunepulse.com/?p=178023" },
+      { "date": "2026-05-20", "text": "घनकचरा व्यवस्थापन नियम, 2026 नुसार भस्मीकरण-आधारित WtE प्रकल्पांसाठी सुधारित मसुदा मार्गदर्शक तत्त्वे पाठवल्याचे CPCB चे लवादाला निवेदन", "source": "https://www.greentribunal.gov.in/sites/default/files/news_updates/Action Taken Report by CPCB in OA No 536 of 2024 NEWS ITEM TITLED WASTE TO ENERGY SMOKESCREEN OR SOLUTION APPEARING IN THE INDIAN DEVELOPMENT REVIEW DATED 27-03-2024.pdf" },
+      { "date": "2026-09-23", "text": "ग्रामस्थांच्या आंदोलनानंतर मिरजचे उपविभागीय अधिकारी / उपविभागीय दंडाधिकारी यांचे प्रकल्प बंद करण्याचे आदेश", "source": "https://www.downtoearth.org.in/waste/maharashtra-waste-to-energy-plant-shut-down-after-pollution-complaints" },
+      { "date": "2026-09-29", "text": "सत्यशोधनातील आरोप आणि भस्मीकरणावर देशव्यापी बंदीची आंदोलकांची मागणी डाउन टू अर्थने प्रसिद्ध केली", "source": "https://www.downtoearth.org.in/waste/maharashtra-waste-to-energy-plant-shut-down-after-pollution-complaints" },
+      { "date": "2026-10-05", "text": "प्रकल्प बंद होणे व कथित उल्लंघनांविषयी कन्स्ट्रक्शन वर्ल्डचे वृत्त", "source": "https://www.constructionworld.in/urban-infrastructure/wastewater-and-sewage-treatment/maharashtra-waste-to-energy-plant-shut-after-pollution-complaints/98100" }
+    ]
+  },
+  "sources": [
+    { "title": "Down To Earth — Maharashtra waste-to-energy plant shut down after pollution complaints (29 Sep 2026)", "url": "https://www.downtoearth.org.in/waste/maharashtra-waste-to-energy-plant-shut-down-after-pollution-complaints", "type": "news" },
+    { "title": "Construction World — Maharashtra waste-to-energy plant shut after pollution complaints (5 Oct 2026)", "url": "https://www.constructionworld.in/urban-infrastructure/wastewater-and-sewage-treatment/maharashtra-waste-to-energy-plant-shut-after-pollution-complaints/98100", "type": "news" },
+    { "title": "Pune Pulse — Pimpri-Chinchwad and Sangli WTE units pulled up for severe environmental violations, CPCB tells NGT (18 Nov 2025)", "url": "https://www.mypunepulse.com/?p=178023", "type": "news" },
+    { "title": "India Environment Portal — Report filed by the Central Pollution Control Board on waste to energy plants, 15/04/2025", "url": "https://indiaenvironmentportal.org.in/in-court/report-filed-by-the-central-pollution-control-board-on-waste-to-energy-plants-15042025", "type": "government" },
+    { "title": "NGT — Action Taken Report by CPCB in O.A. 536/2024 ('Waste to Energy: Smokescreen or Solution?'), 20 May 2026", "url": "https://www.greentribunal.gov.in/sites/default/files/news_updates/Action Taken Report by CPCB in OA No 536 of 2024 NEWS ITEM TITLED WASTE TO ENERGY SMOKESCREEN OR SOLUTION APPEARING IN THE INDIAN DEVELOPMENT REVIEW DATED 27-03-2024.pdf", "type": "court" },
+    { "title": "Bar & Bench — Rajani Associates acts on sale of Ambuja Intermediates' power generation business to Bhumi Green Energy (10 Aug 2022)", "url": "https://www.barandbench.com/law-firms/dealstreet/rajani-associates-acts-on-sale-of-ambuja-intermediates-to-bhumi-green-energy", "type": "news" }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "slug": "barsu-refinery",
+  "priority": "watch",
+  "location": { "lat": 16.63, "lng": 73.45 },
+  "en": {
+    "title": "Barsu Refinery (Ratnagiri)",
+    "district": "Ratnagiri",
+    "category": "Coast",
+    "summary": "A planned 60 million-tonne-a-year oil refinery and petrochemicals complex was moved from Nanar to the Barsu-Solgaon plateau in Rajapur taluka, where villagers fought soil testing in 2023. The Union petroleum minister has since said a refinery of that size has no future, and in February 2026 reports said ADNOC had pulled out. No revival has been announced, but the project has not been formally cancelled.",
+    "background": "The Barsu-Solgaon area lies in Rajapur taluka of Ratnagiri district, in the Konkan. It is a rural coastal belt of fruit orchards, rivers and fishing villages. Its rocky plateau also holds prehistoric rock carvings (katal shilpa, or geoglyphs). In April 2022 the Konkan geoglyph sites, including Barsu, were placed on UNESCO's tentative list of World Heritage sites. Experts have warned that about 250 geoglyphs at Barsu could be damaged by a refinery.\n\nThe project is Ratnagiri Refinery & Petrochemicals Ltd (RRPCL), first announced in 2015 as one of Asia's largest refinery complexes. It is a joint venture of Indian Oil, Bharat Petroleum and Hindustan Petroleum, with Saudi Aramco and the Abu Dhabi National Oil Company (ADNOC) as planned foreign partners. It was first proposed in 2017 at Babulwadi and Nanar. In 2018, according to Land Conflict Watch, around 15,000 residents protested at Rajapur and the government halted the project at Nanar. eSakal reports that the later Thackeray-led government proposed Barsu-Solgaon as the new site.\n\nResidents restarted their campaign in August 2022. In April 2023 the Ratnagiri administration issued prohibitory orders and police detained protesters while survey and soil testing went ahead; according to Land Conflict Watch, about 150 people were detained or arrested. By 15 May 2023 sampling was reported complete and the prohibitory orders against named agitators, including farmer leader Raju Shetty, were withdrawn. The government said throughout that it would not proceed without local consent. Land Conflict Watch also records that locals allege the February 2023 road death of journalist Shashikant Warishe, who had reported on the project, was murder; this is an allegation, not an established fact.\n\nSince then the project has stalled. Union Petroleum Minister Hardeep Singh Puri said in October 2023 that three 20 million-tonne refineries would give 'surer ground footing' than one 60 million-tonne plant, given local issues. On 24 January 2025 he said the Ratnagiri refinery has no future at 60 million tonnes and that locations for smaller refineries were yet to be decided. In February 2026, citing an Economic Times report based on unnamed industry officials, Enterprise reported that ADNOC was understood to have withdrawn, that Aramco had sought a review of its investment terms, and that the plans may have to be shelved. Land Conflict Watch records that in October 2024 about 300 acres next to the site were declared an industrial area. No official cancellation or revival has been found as of 1 November 2026.",
+    "whatIsProposed": "A 60 million tonnes per annum (MMTPA) integrated refinery and petrochemicals complex by Ratnagiri Refinery & Petrochemicals Ltd (Indian Oil, BPCL and HPCL, with Saudi Aramco and ADNOC as planned partners). Reported cost estimates range from about ₹2.7 lakh crore (2018 estimate, per Land Conflict Watch) to more than ₹3 lakh crore (Puri, 2022). Land Conflict Watch lists about 5,261 ha of affected land across villages in Rajapur taluka and neighbouring Sindhudurg, covering both the Nanar and Barsu sites, and estimates about 1.5 lakh construction jobs and 20,000 direct jobs. Since January 2025 the Union government has said it is looking at smaller refineries of 20–25 MMTPA, with locations not yet decided. No environmental clearance application for the Barsu site has been found.",
+    "cause": "The Centre and the state-run oil companies planned one of Asia's largest refinery complexes on the west coast, with Saudi Aramco and ADNOC as partners. The state government has promoted the project as a source of jobs and investment for the Konkan, partly to answer criticism that Maharashtra was losing big projects to other states (eSakal).",
+    "effects": [
+      "Loss of fruit orchards and farmland on the Barsu-Solgaon plateau (concern raised by villagers and opposition groups)",
+      "Pollution of rivers and coastal waters from refinery effluents, harming fishing (concern raised by opponents, as reported by eSakal)",
+      "Risk to about 250 prehistoric geoglyphs at Barsu, part of the Konkan sites on UNESCO's tentative World Heritage list (warning by archaeologists)",
+      "Displacement: Land Conflict Watch lists 17 villages (15 in Ratnagiri, 2 in Sindhudurg) as affected across the Nanar and Barsu sites",
+      "Threats to coastal biodiversity in the ecologically sensitive Konkan (Land Conflict Watch)",
+      "Criminal cases and bail conditions for about 150 protesters detained in 2023, and prohibitory orders limiting their movement (Land Conflict Watch, Kokanai)"
+    ],
+    "govPosition": "The state government has presented the refinery as a source of large-scale employment and development for the whole Konkan. It said it would not go ahead without consulting local people and getting their consent (eSakal, April 2023). The Centre's position has shifted: in 2022 Petroleum Minister Hardeep Singh Puri said the project 'need not be in Ratnagiri alone' and could go anywhere on the west coast. In January 2025 he said it has no future at 60 MMTPA and floated three 20 MMTPA refineries, or one of 20–25 MMTPA, at locations yet to be decided. No official statement on the February 2026 reports of ADNOC's exit has been found.",
+    "status": "Stalled. Gulf partners reportedly reassessing (Feb 2026). Not formally cancelled. Watch.",
+    "keyFacts": [
+      { "label": "Developer", "value": "Ratnagiri Refinery & Petrochemicals Ltd (IOC, BPCL, HPCL; Saudi Aramco and ADNOC as planned partners)" },
+      { "label": "Planned capacity", "value": "60 MMTPA (Centre now talks of 20–25 MMTPA units)" },
+      { "label": "Estimated cost", "value": "About ₹2.7–3 lakh crore (estimates differ by year)" },
+      { "label": "Site", "value": "Barsu-Solgaon, Rajapur taluka (moved from Nanar after 2018 protests)" },
+      { "label": "Affected land", "value": "About 5,261 ha across Nanar and Barsu villages (Land Conflict Watch)" },
+      { "label": "Heritage", "value": "About 250 geoglyphs at Barsu; Konkan geoglyphs on UNESCO tentative list since Apr 2022" },
+      { "label": "Protest arrests", "value": "About 150 detained or arrested in 2023 (Land Conflict Watch)" },
+      { "label": "Latest", "value": "Feb 2026: ADNOC reported to have exited; Aramco seeking review" }
+    ],
+    "disputed": [
+      "Project cost: Land Conflict Watch gives ₹2.7 lakh crore (2018 estimate). Puri called it an 'over ₹3 lakh crore' project in 2022. Enterprise (2026) gives ₹3 trillion.",
+      "Status of the Gulf partners: reports in February 2026, based on unnamed officials, say ADNOC has withdrawn and Aramco wants revised terms. Neither company nor the government has confirmed this in any source found.",
+      "Local support: the government says the project will bring jobs and development and will proceed only with consent. Villagers' groups such as the Barsu Solgaon Panchkroshi Refinery Virodhi Sanghatana demand cancellation and refuse to give land."
+    ],
+    "openQuestions": [
+      "Has the 60 MMTPA Ratnagiri project been formally dropped, and is Barsu being considered for a smaller refinery?",
+      "Land area actually notified or earmarked at Barsu-Solgaon. The earlier figure of about 15,000 acres could not be confirmed from an opened source.",
+      "What the October 2024 declaration of about 300 acres near the site as an industrial area is for",
+      "Status of criminal cases against the 2023 protesters",
+      "Any official investigation into the death of journalist Shashikant Warishe"
+    ],
+    "timeline": [
+      { "date": "2018", "text": "Around 15,000 residents protest at Rajapur and the government halts the refinery at Nanar; the site is later shifted to Barsu-Solgaon", "source": "https://www.landconflictwatch.org/conflicts/communities-revive-campaign-against-oil-refinery-in-ratnagiri-district-maharashtra" },
+      { "date": "2022-04", "text": "Konkan geoglyph sites, including Barsu, added to UNESCO's tentative World Heritage list", "source": "https://www.nextias.com/ca/current-affairs/28-12-2022/geoglyphs-ratnagiris-prehistoric-rock-art" },
+      { "date": "2022-09-15", "text": "Petroleum Minister Puri hints at reviving the 60 MMTPA project, saying it 'need not be in Ratnagiri alone'", "source": "https://psuwatch.com/latestnews/hardeep-singh-puri-hints-at-reviving-mega-west-coast-refinery-project" },
+      { "date": "2023-04", "text": "Survey and soil testing begin at Barsu under prohibitory orders; police detain protesting villagers", "source": "https://www.esakal.com/maharashtra/barsu-refinery-project-explain-why-local-farmer-protest-environmental-degradation-srk94" },
+      { "date": "2023-05-15", "text": "Sampling reported complete; prohibitory orders against named agitators, including Raju Shetty, withdrawn", "source": "https://kokanai.in/2023/05/15/1-507/" },
+      { "date": "2023-10-04", "text": "Puri says three 20 MMTPA refineries would be better than one 60 MMTPA plant because of local issues", "source": "https://argusmedia.com/en/news/2495623-india-flags-shift-in-ioc-west-coast-refinery-plan" },
+      { "date": "2024-10", "text": "About 300 acres adjoining the site declared an industrial area", "source": "https://www.landconflictwatch.org/conflicts/communities-revive-campaign-against-oil-refinery-in-ratnagiri-district-maharashtra" },
+      { "date": "2025-01-24", "text": "Puri says the Ratnagiri refinery has no future at 60 MMTPA; smaller refineries at locations yet to be decided", "source": "https://www.sarkaritel.com/centre-mulling-3-refineries-of-20-mmtpa-capacities-in-various-locations-minister/" },
+      { "date": "2026-02-18", "text": "Reports say ADNOC has withdrawn and Aramco has sought a review of its terms; plans may be shelved", "source": "https://enterpriseam.com/mena-india/2026/02/18/this-afternoon-ratnagiri-refinery-hits-setback-as-gulf-backers-reassess-participation/" }
+    ]
+  },
+  "mr": {
+    "title": "बारसू रिफायनरी (रत्नागिरी)",
+    "district": "रत्नागिरी",
+    "category": "किनारा",
+    "summary": "वर्षाला 6 कोटी टन क्षमतेचा नियोजित तेलशुद्धीकरण व पेट्रोरसायन प्रकल्प नाणारहून राजापूर तालुक्यातील बारसू-सोलगाव सड्यावर हलवण्यात आला. 2023 मध्ये तेथे ग्रामस्थांनी माती परीक्षणाला कडाडून विरोध केला. एवढ्या क्षमतेच्या रिफायनरीला भविष्य नाही, असे केंद्रीय पेट्रोलियममंत्र्यांनी नंतर सांगितले. फेब्रुवारी 2026 मध्ये ADNOC बाहेर पडल्याचे वृत्त आले. प्रकल्प पुन्हा सुरू करण्याची घोषणा झालेली नाही, मात्र तो औपचारिकरीत्या रद्दही झालेला नाही.",
+    "background": "बारसू-सोलगाव परिसर कोकणातील रत्नागिरी जिल्ह्याच्या राजापूर तालुक्यात आहे. हा फळबागा, नद्या आणि मच्छीमार गावे असलेला ग्रामीण किनारी पट्टा आहे. येथील कातळ सड्यावर प्रागैतिहासिक कातळशिल्पेही आहेत. एप्रिल 2022 मध्ये बारसूसह कोकणातील कातळशिल्प स्थळांचा युनेस्कोच्या जागतिक वारसा स्थळांच्या संभाव्य यादीत समावेश झाला. रिफायनरीमुळे बारसू येथील सुमारे 250 कातळशिल्पांना हानी पोहोचू शकते, असा इशारा तज्ज्ञांनी दिला आहे.\n\nरत्नागिरी रिफायनरी अँड पेट्रोकेमिकल्स लिमिटेड (RRPCL) हा प्रकल्प 2015 मध्ये आशियातील सर्वात मोठ्या रिफायनरी प्रकल्पांपैकी एक म्हणून जाहीर झाला. इंडियन ऑइल, भारत पेट्रोलियम आणि हिंदुस्तान पेट्रोलियम यांचा हा संयुक्त उपक्रम असून सौदी अरामको आणि अबू धाबी नॅशनल ऑइल कंपनी (ADNOC) नियोजित परदेशी भागीदार आहेत. 2017 मध्ये तो प्रथम बाभुळवाडी व नाणार येथे प्रस्तावित झाला. लँड कॉन्फ्लिक्ट वॉचनुसार 2018 मध्ये राजापूर येथे सुमारे 15,000 ग्रामस्थांनी आंदोलन केले आणि सरकारने नाणार येथील प्रकल्प थांबवला. ई-सकाळच्या वृत्तानुसार नंतरच्या ठाकरे सरकारने बारसू-सोलगाव हे नवे ठिकाण सुचवले.\n\nऑगस्ट 2022 मध्ये ग्रामस्थांनी पुन्हा आंदोलन सुरू केले. एप्रिल 2023 मध्ये रत्नागिरी प्रशासनाने मनाई आदेश लागू केले आणि सर्वेक्षण व माती परीक्षणादरम्यान पोलिसांनी आंदोलकांना ताब्यात घेतले. लँड कॉन्फ्लिक्ट वॉचनुसार सुमारे 150 जणांना ताब्यात घेण्यात आले किंवा अटक करण्यात आली. 15 मे 2023 पर्यंत नमुने घेण्याचे काम पूर्ण झाल्याचे वृत्त आले. शेतकरी नेते राजू शेट्टी यांच्यासह नामनिर्देशित आंदोलकांवरील मनाई आदेश मागे घेण्यात आले. स्थानिकांच्या संमतीशिवाय प्रकल्प पुढे नेणार नाही, असे सरकार सातत्याने सांगत आले. प्रकल्पाविषयी वृत्तांकन करणारे पत्रकार शशिकांत वारिशे यांचा फेब्रुवारी 2023 मध्ये रस्ते अपघातात मृत्यू झाला. ती हत्या होती, असा स्थानिकांचा आरोप असल्याचे लँड कॉन्फ्लिक्ट वॉचने नोंदवले आहे. हा आरोप असून सिद्ध झालेली वस्तुस्थिती नाही.\n\nत्यानंतर प्रकल्प रखडला आहे. स्थानिक प्रश्न लक्षात घेता 6 कोटी टनांच्या एका प्रकल्पापेक्षा प्रत्येकी 2 कोटी टनांच्या तीन रिफायनरी अधिक भक्कम ठरतील, असे केंद्रीय पेट्रोलियममंत्री हरदीपसिंग पुरी यांनी ऑक्टोबर 2023 मध्ये म्हटले. 24 जानेवारी 2025 रोजी त्यांनी, 6 कोटी टन क्षमतेने रत्नागिरी रिफायनरीला भविष्य नाही आणि लहान रिफायनरींची ठिकाणे अद्याप ठरायची आहेत, असे सांगितले. अनामिक उद्योग अधिकाऱ्यांच्या हवाल्याने इकॉनॉमिक टाइम्सने दिलेल्या वृत्ताचा आधार घेत 'एंटरप्राइज'ने फेब्रुवारी 2026 मध्ये म्हटले की ADNOC बाहेर पडल्याचे समजते, अरामकोने गुंतवणुकीच्या अटींचा फेरआढावा मागितला आहे आणि योजना बासनात गुंडाळावी लागू शकते. लँड कॉन्फ्लिक्ट वॉचच्या नोंदीनुसार ऑक्टोबर 2024 मध्ये प्रकल्पस्थळालगतचे सुमारे 300 एकर क्षेत्र औद्योगिक क्षेत्र म्हणून घोषित झाले. 1 नोव्हेंबर 2026 पर्यंत प्रकल्प अधिकृतपणे रद्द झाल्याची किंवा पुन्हा सुरू झाल्याची कोणतीही घोषणा आढळलेली नाही.",
+    "whatIsProposed": "रत्नागिरी रिफायनरी अँड पेट्रोकेमिकल्स लिमिटेडचा (इंडियन ऑइल, BPCL व HPCL; सौदी अरामको व ADNOC नियोजित भागीदार) वर्षाला 6 कोटी टन (60 MMTPA) क्षमतेचा एकात्मिक तेलशुद्धीकरण व पेट्रोरसायन प्रकल्प. खर्चाचे अंदाज सुमारे ₹2.7 लाख कोटींपासून (2018 चा अंदाज, लँड कॉन्फ्लिक्ट वॉचनुसार) ₹3 लाख कोटींहून अधिक (पुरी, 2022) पर्यंत आहेत. लँड कॉन्फ्लिक्ट वॉचनुसार नाणार व बारसू या दोन्ही ठिकाणांसह राजापूर तालुका आणि शेजारच्या सिंधुदुर्गातील गावांमध्ये सुमारे 5,261 हेक्टर जमीन बाधित होणार आहे. बांधकाम काळात सुमारे 1.5 लाख आणि त्यानंतर 20,000 प्रत्यक्ष रोजगारांचा अंदाज आहे. जानेवारी 2025 पासून केंद्र सरकार 2–2.5 कोटी टन (20–25 MMTPA) क्षमतेच्या लहान रिफायनरींचा विचार करत असल्याचे सांगते. त्यांची ठिकाणे अद्याप ठरलेली नाहीत. बारसू स्थळासाठी पर्यावरणीय मंजुरीचा अर्ज केल्याचे आढळलेले नाही.",
+    "cause": "केंद्र सरकार व सरकारी तेल कंपन्यांनी सौदी अरामको आणि ADNOC यांच्या भागीदारीत पश्चिम किनाऱ्यावर आशियातील सर्वात मोठ्या रिफायनरी प्रकल्पांपैकी एक उभारण्याची योजना आखली. राज्य सरकारने हा प्रकल्प कोकणासाठी रोजगार व गुंतवणुकीचा स्रोत म्हणून पुढे केला आहे. महाराष्ट्रातील मोठे प्रकल्प इतर राज्यांत जात असल्याच्या टीकेला उत्तर देणे हाही त्यामागचा एक हेतू असल्याचे ई-सकाळने म्हटले आहे.",
+    "effects": [
+      "बारसू-सोलगाव परिसरातील फळबागा व शेतजमिनीचे नुकसान (ग्रामस्थ व विरोधी संघटनांनी व्यक्त केलेली भीती)",
+      "रिफायनरीच्या सांडपाण्यामुळे नद्या व किनारी पाणी प्रदूषित होऊन मासेमारीला फटका (विरोधकांनी व्यक्त केलेली भीती, ई-सकाळच्या वृत्तानुसार)",
+      "युनेस्कोच्या संभाव्य जागतिक वारसा यादीतील कोकण स्थळांपैकी असलेल्या बारसू येथील सुमारे 250 प्रागैतिहासिक कातळशिल्पांना धोका (पुरातत्त्वज्ञांचा इशारा)",
+      "विस्थापन: नाणार व बारसू स्थळे मिळून 17 गावे (रत्नागिरीतील 15, सिंधुदुर्गातील 2) बाधित असल्याचे लँड कॉन्फ्लिक्ट वॉचने नोंदवले आहे",
+      "पर्यावरणदृष्ट्या संवेदनशील कोकणातील किनारी जैवविविधतेला धोका (लँड कॉन्फ्लिक्ट वॉच)",
+      "2023 मध्ये ताब्यात घेतलेल्या सुमारे 150 आंदोलकांवर फौजदारी गुन्हे व जामिनाच्या अटी, तसेच त्यांच्या संचारावर मर्यादा आणणारे मनाई आदेश (लँड कॉन्फ्लिक्ट वॉच, कोकणाई)"
+    ],
+    "govPosition": "राज्य सरकारने रिफायनरीला संपूर्ण कोकणासाठी मोठ्या प्रमाणावर रोजगार व विकास देणारा प्रकल्प म्हणून मांडले आहे. स्थानिकांशी चर्चा करून त्यांची संमती मिळाल्याशिवाय प्रकल्प पुढे नेणार नाही, असे सरकारने म्हटले होते (ई-सकाळ, एप्रिल 2023). केंद्राची भूमिका बदलत गेली आहे. 2022 मध्ये पेट्रोलियममंत्री हरदीपसिंग पुरी यांनी प्रकल्प 'केवळ रत्नागिरीतच असला पाहिजे असे नाही' आणि तो पश्चिम किनाऱ्यावर कुठेही होऊ शकतो, असे म्हटले. जानेवारी 2025 मध्ये त्यांनी 60 MMTPA क्षमतेने त्याला भविष्य नाही, असे सांगून प्रत्येकी 20 MMTPA च्या तीन किंवा 20–25 MMTPA च्या एका रिफायनरीचा पर्याय मांडला. या रिफायनरींची ठिकाणे अद्याप ठरायची आहेत. ADNOC बाहेर पडल्याच्या फेब्रुवारी 2026 च्या वृत्तांवर कोणतेही अधिकृत निवेदन आढळलेले नाही.",
+    "status": "प्रकल्प रखडलेला. आखाती भागीदार फेरविचार करत असल्याचे वृत्त (फेब्रुवारी 2026). औपचारिकरीत्या रद्द नाही. लक्ष ठेवणे आवश्यक.",
+    "keyFacts": [
+      { "label": "विकासक", "value": "रत्नागिरी रिफायनरी अँड पेट्रोकेमिकल्स लि. (IOC, BPCL, HPCL; सौदी अरामको व ADNOC नियोजित भागीदार)" },
+      { "label": "नियोजित क्षमता", "value": "60 MMTPA (केंद्र आता 20–25 MMTPA च्या प्रकल्पांबद्दल बोलत आहे)" },
+      { "label": "अंदाजित खर्च", "value": "सुमारे ₹2.7–3 लाख कोटी (अंदाज वर्षागणिक वेगळे)" },
+      { "label": "ठिकाण", "value": "बारसू-सोलगाव, राजापूर तालुका (2018 च्या आंदोलनानंतर नाणारहून हलवले)" },
+      { "label": "बाधित जमीन", "value": "नाणार व बारसू गावे मिळून सुमारे 5,261 हेक्टर (लँड कॉन्फ्लिक्ट वॉच)" },
+      { "label": "वारसा", "value": "बारसू येथे सुमारे 250 कातळशिल्पे; एप्रिल 2022 पासून कोकणातील कातळशिल्पे युनेस्कोच्या संभाव्य यादीत" },
+      { "label": "आंदोलकांवरील कारवाई", "value": "2023 मध्ये सुमारे 150 जण ताब्यात किंवा अटकेत (लँड कॉन्फ्लिक्ट वॉच)" },
+      { "label": "ताजी घडामोड", "value": "फेब्रुवारी 2026: ADNOC बाहेर पडल्याचे वृत्त; अरामकोकडून अटींचा फेरआढावा" }
+    ],
+    "disputed": [
+      "प्रकल्पाचा खर्च: लँड कॉन्फ्लिक्ट वॉचनुसार ₹2.7 लाख कोटी (2018 चा अंदाज). पुरी यांनी 2022 मध्ये तो '₹3 लाख कोटींहून अधिक'चा प्रकल्प असल्याचे म्हटले. 'एंटरप्राइज'ने (2026) ₹3 ट्रिलियन असा आकडा दिला आहे.",
+      "आखाती भागीदारांची भूमिका: अनामिक अधिकाऱ्यांच्या हवाल्याने फेब्रुवारी 2026 मध्ये आलेल्या वृत्तांनुसार ADNOC बाहेर पडली असून अरामकोला सुधारित अटी हव्या आहेत. आढळलेल्या कोणत्याही स्रोतात कंपन्यांनी किंवा सरकारने याला दुजोरा दिलेला नाही.",
+      "स्थानिकांचा पाठिंबा: प्रकल्पातून रोजगार व विकास होईल आणि संमतीनेच तो पुढे नेला जाईल, असे सरकारचे म्हणणे आहे. बारसू सोलगाव पंचक्रोशी रिफायनरी विरोधी संघटनेसारख्या ग्रामस्थांच्या संघटना प्रकल्प रद्द करण्याची मागणी करत असून जमीन देण्यास नकार देत आहेत."
+    ],
+    "openQuestions": [
+      "60 MMTPA रत्नागिरी प्रकल्प औपचारिकरीत्या रद्द झाला आहे का, आणि लहान रिफायनरीसाठी बारसूचा विचार सुरू आहे का?",
+      "बारसू-सोलगाव येथे प्रत्यक्ष अधिसूचित किंवा राखीव ठेवलेले जमीनक्षेत्र किती? सुमारे 15,000 एकर हा पूर्वीचा आकडा उघडलेल्या कोणत्याही स्रोतातून पडताळता आला नाही.",
+      "ऑक्टोबर 2024 मध्ये प्रकल्पस्थळालगतचे सुमारे 300 एकर क्षेत्र औद्योगिक क्षेत्र म्हणून कशासाठी घोषित करण्यात आले",
+      "2023 मधील आंदोलकांवरील फौजदारी खटल्यांची सद्यस्थिती",
+      "पत्रकार शशिकांत वारिशे यांच्या मृत्यूबाबत कोणतीही अधिकृत चौकशी झाली आहे का"
+    ],
+    "timeline": [
+      { "date": "2018", "text": "राजापूर येथे सुमारे 15,000 ग्रामस्थांचे आंदोलन; सरकारने नाणार येथील रिफायनरी थांबवली. नंतर प्रकल्पस्थळ बारसू-सोलगावला हलवले", "source": "https://www.landconflictwatch.org/conflicts/communities-revive-campaign-against-oil-refinery-in-ratnagiri-district-maharashtra" },
+      { "date": "2022-04", "text": "बारसूसह कोकणातील कातळशिल्प स्थळांचा युनेस्कोच्या संभाव्य जागतिक वारसा यादीत समावेश", "source": "https://www.nextias.com/ca/current-affairs/28-12-2022/geoglyphs-ratnagiris-prehistoric-rock-art" },
+      { "date": "2022-09-15", "text": "60 MMTPA प्रकल्प पुन्हा सुरू करण्याचे पेट्रोलियममंत्री पुरी यांचे संकेत; तो 'केवळ रत्नागिरीतच असला पाहिजे असे नाही' असे विधान", "source": "https://psuwatch.com/latestnews/hardeep-singh-puri-hints-at-reviving-mega-west-coast-refinery-project" },
+      { "date": "2023-04", "text": "मनाई आदेशांखाली बारसू येथे सर्वेक्षण व माती परीक्षण सुरू; आंदोलक ग्रामस्थ पोलिसांच्या ताब्यात", "source": "https://www.esakal.com/maharashtra/barsu-refinery-project-explain-why-local-farmer-protest-environmental-degradation-srk94" },
+      { "date": "2023-05-15", "text": "नमुने घेण्याचे काम पूर्ण झाल्याचे वृत्त; राजू शेट्टी यांच्यासह नामनिर्देशित आंदोलकांवरील मनाई आदेश मागे", "source": "https://kokanai.in/2023/05/15/1-507/" },
+      { "date": "2023-10-04", "text": "स्थानिक प्रश्नांमुळे एका 60 MMTPA प्रकल्पापेक्षा प्रत्येकी 20 MMTPA च्या तीन रिफायनरी अधिक चांगल्या, असे पुरी यांचे विधान", "source": "https://argusmedia.com/en/news/2495623-india-flags-shift-in-ioc-west-coast-refinery-plan" },
+      { "date": "2024-10", "text": "प्रकल्पस्थळालगतचे सुमारे 300 एकर क्षेत्र औद्योगिक क्षेत्र म्हणून घोषित", "source": "https://www.landconflictwatch.org/conflicts/communities-revive-campaign-against-oil-refinery-in-ratnagiri-district-maharashtra" },
+      { "date": "2025-01-24", "text": "60 MMTPA क्षमतेने रत्नागिरी रिफायनरीला भविष्य नाही, असे पुरी यांचे विधान; लहान रिफायनरींची ठिकाणे अद्याप ठरायची आहेत", "source": "https://www.sarkaritel.com/centre-mulling-3-refineries-of-20-mmtpa-capacities-in-various-locations-minister/" },
+      { "date": "2026-02-18", "text": "ADNOC बाहेर पडली असून अरामकोने अटींचा फेरआढावा मागितल्याचे वृत्त; योजना बासनात जाण्याची शक्यता", "source": "https://enterpriseam.com/mena-india/2026/02/18/this-afternoon-ratnagiri-refinery-hits-setback-as-gulf-backers-reassess-participation/" }
+    ]
+  },
+  "sources": [
+    { "title": "Land Conflict Watch — Environmental concerns and community opposition to oil refinery in Ratnagiri (updated 20 Nov 2025)", "url": "https://www.landconflictwatch.org/conflicts/communities-revive-campaign-against-oil-refinery-in-ratnagiri-district-maharashtra", "type": "research" },
+    { "title": "eSakal — काय आहे बारसू रिफायनरी प्रकल्प? शेतकऱ्यांचा विरोध का होतोय? (25 Apr 2023)", "url": "https://www.esakal.com/maharashtra/barsu-refinery-project-explain-why-local-farmer-protest-environmental-degradation-srk94", "type": "news" },
+    { "title": "Kokanai — बारसू परिसरातील नमुने घेण्याचे काम पूर्ण; प्रकल्प विरोधकांचे मनाई आदेश रद्द (15 May 2023)", "url": "https://kokanai.in/2023/05/15/1-507/", "type": "news" },
+    { "title": "PSU Watch — Hardeep Singh Puri hints at reviving mega West Coast refinery project (15 Sep 2022)", "url": "https://psuwatch.com/latestnews/hardeep-singh-puri-hints-at-reviving-mega-west-coast-refinery-project", "type": "news" },
+    { "title": "Argus Media — India flags shift in IOC west coast refinery plan (4 Oct 2023)", "url": "https://argusmedia.com/en/news/2495623-india-flags-shift-in-ioc-west-coast-refinery-plan", "type": "news" },
+    { "title": "IANS via Sarkaritel — Centre mulling 3 refineries of 20 MMTPA capacities in various locations: Minister (24 Jan 2025)", "url": "https://www.sarkaritel.com/centre-mulling-3-refineries-of-20-mmtpa-capacities-in-various-locations-minister/", "type": "news" },
+    { "title": "Enterprise (MENA–India) — Ratnagiri refinery hits setback as Gulf backers reassess participation (18 Feb 2026, citing The Economic Times)", "url": "https://enterpriseam.com/mena-india/2026/02/18/this-afternoon-ratnagiri-refinery-hits-setback-as-gulf-backers-reassess-participation/", "type": "news" },
+    { "title": "NEXT IAS current affairs — Geoglyphs: Ratnagiri's prehistoric rock art (28 Dec 2022; secondary summary)", "url": "https://www.nextias.com/ca/current-affairs/28-12-2022/geoglyphs-ratnagiris-prehistoric-rock-art", "type": "research" }
+  ]
+}
